@@ -10,7 +10,7 @@
 
 ## 🙋‍♀️ About Me
 
-Hey! I'm **Akanksha Bolla** — an **AI/ML Engineer | Generative AI Engineer | Full Stack Developer** with **2 years of experience** building intelligent, production-ready systems.
+Hey! I'm **Akanksha Bolla** — an **AI/ML Engineer | Generative AI Engineer | Full Stack Developer** building intelligent, production-ready systems.
 
 - 🧠 I turn complex ML models & LLMs into real-world, scalable applications
 - ⚡ Passionate about Generative AI, RAG pipelines, and LLM-powered automation
@@ -82,34 +82,3 @@ Hey! I'm **Akanksha Bolla** — an **AI/ML Engineer | Generative AI Engineer | F
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/akanksha-bolla-1bab08232/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://akanksha-portfolio-ruddy.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/akankshabolla" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-
-## 🤝 Let's Connect!
-
-I'm always open to exciting collaborations, research discussions, and new opportunities in **AI/ML, Generative AI, and Full Stack Development**.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/akanksha-bolla-1bab08232/"><img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://akanksha-portfolio-ruddy.vercel.app/"><img src="https://img.shields.io/badge/View%20My%20Work-Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <i>✨ "Building the future, one model at a time." ✨</i>
-</p>
